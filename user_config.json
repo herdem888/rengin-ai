@@ -1,0 +1,10 @@
+{
+    "binance": {
+        "api_key": "",
+        "api_secret": ""
+    },
+    "telegram": {
+        "bot_token": "7760037724:AAEqG-1hblb940kVLQjsvvtON8VMzU8C1Gc",
+        "chat_id": "900533133"
+    }
+}
