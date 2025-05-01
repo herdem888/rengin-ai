@@ -1,0 +1,10 @@
+streamlit
+openai
+python-binance
+requests
+scikit-learn
+keras
+pandas
+numpy
+python-dotenv
+matplotlib
